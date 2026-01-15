@@ -1,0 +1,12 @@
+{
+  "name": "meta",
+  "version": "1.0.0",
+  "description": "WhatsApp SaaS backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
